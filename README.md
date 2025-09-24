@@ -48,7 +48,7 @@
 - (https://github.com/theethawat6378/Application-for-marking-location-and-supporting-care-for-the-elderly)  
 
 ## 📫 ติดต่อ
-- Email: theethawat@gmail.com  
+- Email: theethawat6378@gmail.com  
 - หรือ DM ใน GitHub 😄
 
 
