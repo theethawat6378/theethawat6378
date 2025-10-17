@@ -33,7 +33,6 @@
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Dart](https://skillicons.dev/icons?i=dart)
 ![Nodejs](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![PHP](https://skillicons.dev/icons?i=php)
@@ -45,8 +44,6 @@
 - `แอปพลิเคชันมาร์คจุดที่ตั้งและสนับสนุนการดูแลสุขภาพผู้สูงอายุในระดับชุมชน`
 - แอปแผนที่สำหรับแสดงตำแหน่ง (Flutter + Google Maps)
 - ระบบบันทึกข้อมูลผู้ใช้งาน (PHP + MySQL)
-- 🔗 *Repo:* [Application-for-marking-location-and-supporting-care-for-the-elderly]
-- (https://github.com/theethawat6378/Application-for-marking-location-and-supporting-care-for-the-elderly)  
 
 ## 📫 ติดต่อ
 - Email: theethawat6378@gmail.com  
